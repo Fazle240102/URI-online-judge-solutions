@@ -8,7 +8,7 @@ int main()
     scanf("%d", &work_hour);
     scanf("%lf", &amount);
 
-    printf("NUMBER = %d\nSALARY = U$ %.2lf", number, work_hour * amount);
+    printf("NUMBER = %d\nSALARY = U$ %.2lf\n", number, work_hour * amount);
 
     return 0;
 }
