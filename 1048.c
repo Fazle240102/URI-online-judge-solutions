@@ -2,7 +2,7 @@
 
 int main()
 {
-    double salary, newSalary, earned;
+    double salary;
 
     scanf("%lf", &salary);
 
