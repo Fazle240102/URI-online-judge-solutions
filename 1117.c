@@ -13,7 +13,7 @@ int main()
             if (sum > x)
             {
 
-                printf("media = %.2lf", sum / 2.0);
+                printf("media = %.2lf\n", sum / 2.0);
                 break;
             }
         }
